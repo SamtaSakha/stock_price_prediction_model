@@ -38,4 +38,7 @@ The goal of this project is to predict the **next day's stock closing price** us
 ---
 
 ## 📊 Sample Output
+R² Score: 0.98
+Mean Squared Error: 3.25
+
 
